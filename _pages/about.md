@@ -33,11 +33,11 @@ nothing here，remain to be seen
 - *2023.10* Second Prize of the [China Robotics Competition and RoboCup China Competition](https://www.caa.org.cn/Content/33.html)(Top 12 Nationwide)
 
 # 📖 Educations
-- *2026-2029(now)*, Computer Science, [College of Intelligent Robotics and Advanced Manufacturing](https://ciram.fudan.edu.cn/xyjj_50955/list.htm), [Institute of Trustworthy Embodied AI](https://teai.fudan.edu.cn/),Fudan University.
+- *2026-now*, Computer Science, [College of Intelligent Robotics and Advanced Manufacturing](https://ciram.fudan.edu.cn/xyjj_50955/list.htm), [Institute of Trustworthy Embodied AI](https://teai.fudan.edu.cn/),Fudan University.
 - *2022-2026*, Artificial Intelligent, College of information engineering.
 
 # 💬 Invited Talks
-nothing here，remain to be seen
+2024.9 24th China International Industry Fair,Shanghai
 
 # 💻 Internships
 - *2025.10 - 2026.08*, intern,Solution Architect,[Nvidia](https://www.nvidia.com/en-us/),Beijing,China.
