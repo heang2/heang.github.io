@@ -27,7 +27,7 @@ author:
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : #"https://scholar.google.com/citations?hl=zh-CN&user=4zGO_n8AAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?hl=zh-CN&user=4zGO_n8AAAAJ"
   email            : "angh@nvidia.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
