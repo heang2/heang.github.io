@@ -22,12 +22,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Ang He"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/heangphoto.png"
   bio              : "Nvidia,Fudan University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=APjjwuYmBOTUTZLRF3k9CIjR9HMQ0tLuW4ApFATniutKQb1RdbPpRAb9tti1Jc_3HO_iyg0XEl0bbUV99tTsDT3Kn-JIOlg&user=4zGO_n8AAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=4zGO_n8AAAAJ"
   email            : "angh@nvidia.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
