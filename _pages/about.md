@@ -32,7 +32,7 @@ nothing here，remain to be seen
 - *2024.10* Gold Award for Aerise Robot Cup Tournament of Robotic Theory and Design.
 - *2023.10* Second Prize of the [China Robotics Competition and RoboCup China Competition](https://www.caa.org.cn/Content/33.html) -UGV Track(Top 12 Nationwide)
 - *2022.12* Second Prize of the [National Undergrafuate Engineering Practice And Innovation Ability Competioton Shanghai Division Finals](http://www.gcxl.edu.cn/new/index.html) -UAV Track
-- 
+ 
 # 📖 Educations
 - *2026-now*, Computer Science, [College of Intelligent Robotics and Advanced Manufacturing](https://ciram.fudan.edu.cn/xyjj_50955/list.htm), [Institute of Trustworthy Embodied AI](https://teai.fudan.edu.cn/),Fudan University.
 - *2022-2026*, Artificial Intelligent, College of information engineering.
