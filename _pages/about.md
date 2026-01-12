@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently work as an intern,Solution Architect,AI in Industry Project at NVIDIA.Simultaneously,i am also a master's student in [College of Intelligent Robotics and Advanced Manufacturing](https://ciram.fudan.edu.cn/xyjj_50955/list.htm),[Institute of Trustworthy Embodied AI](https://teai.fudan.edu.cn/),[Fudan University](https://www.fudan.edu.cn/),advised by [Prof.Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=en&oi=ao) and [Prof.Zuxuan Wu](https://zxwu.azurewebsites.net/).My research interests include computer vision,multimedia and embodied AI.In Nvidia,i work with [Yichen Xu](https://kokaine.github.io) under the guidance of Rita Zhang.
+I am currently work as an intern,Solution Architect,AI in Industry Project at NVIDIA.Simultaneously,i am also a master's student in [Institute of Trustworthy Embodied AI](https://teai.fudan.edu.cn/),[Fudan University](https://www.fudan.edu.cn/),advised by [Prof.Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=en&oi=ao) and [Prof.Zuxuan Wu](https://zxwu.azurewebsites.net/).My research interests include computer vision,multimedia and embodied AI.In Nvidia,i work with [Yichen Xu](https://kokaine.github.io) under the guidance of Rita Zhang.
  
 
 
