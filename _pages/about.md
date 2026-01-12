@@ -35,11 +35,12 @@ nothing here，remain to be seen
  
 # 📖 Educations
 - *2026-now*, Computer Science, [College of Intelligent Robotics and Advanced Manufacturing](https://ciram.fudan.edu.cn/xyjj_50955/list.htm), [Institute of Trustworthy Embodied AI](https://teai.fudan.edu.cn/),Fudan University.
-- *2022-2026*, Artificial Intelligent, College of information engineering.
+- *2022-2026*, Artificial Intelligent, College of Information Engineering.
 
 # 💬 Invited Talks
 - *2024.09* 24th China International Industry Fair,Shanghai.
 
 # 💻 Internships
 - *2025.10 - 2026.08*, Intern,Solution Architect,[Nvidia](https://www.nvidia.com/en-us/),Beijing,China.
-- *2023.06 - 2024.08*, Cofounder,[Shanghai Markteam Information Technology Co., Ltd. ](https://www.qcc.com/firm/94ca1a2dde01eb87b668999ac248540d.html),Beijing,China.        
+- *2024.07 - 2024.08*, Research Intern,[Shanghai Jiaotong University]([https://www.nvidia.com/en-us/](https://www.sjtu.edu.cn/)),Shanghai,China.
+- *2023.06 - 2024.08*, Cofounder,[Shanghai Markteam Information Technology Co., Ltd. ](https://www.qcc.com/firm/94ca1a2dde01eb87b668999ac248540d.html),Shanghai,China.        
