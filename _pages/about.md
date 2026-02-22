@@ -30,7 +30,9 @@ I also serve as a consultant for the [Ultra Dimension](https://ultradimension.cn
 
 # 📝 Publications 
 - [SinGS:Animatable Single-Image Human Gaussian Splats with Kinematic Priors](https://eavianwoo.github.io/singsPage/), Yufan Wu,Xuanhong Chen,Wen Li,Shunran Jia, Hualiang Wei,Kairui Feng,Jialiang Chen,Yuhan Li,**Ang He**,Weimin Zhang,Bingbing Ni,Wenjun Zhang, **CVPR 2025**
+- [Rapid optimization strategy for Chiral Quadrilateral Structures driven by deep learning and computational feedback](https://www.sciencedirect.com/science/article/abs/pii/S2352492825008803),Yichen Hai,Haiyan Qiang,Xinyan Wu,**Ang He**,Yi He,**Materials Today Communications**
 - [Application of Non-Stationary Ship Roll Motion Prediction and Compensation Control Based on VMD-GRU-EC](https://ieeexplore.ieee.org/document/10591825),Qin Zhang,Jia-Bin Li,**Ang He**,Xiong Hu,**ICCA 2024**
+
 
 # 🧪 Projects
 
