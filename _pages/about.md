@@ -71,5 +71,5 @@ I also serve as a consultant for the [Ultra Dimension](https://ultradimension.cn
 
 # 💻 Internships
 - *2025.10 - 2026.08*, Intern,Solution Architect,[Nvidia](https://www.nvidia.com/en-us/),Beijing,China.
-- *2024.07 - 2024.08*, Research Intern,[Shanghai Jiaotong University](https://www.sjtu.edu.cn/),Shanghai,China.
+- *2024.07 - 2025.05*, Research Intern,[Shanghai Jiaotong University](https://www.sjtu.edu.cn/),Shanghai,China.
 - *2023.06 - 2024.08*, Cofounder,[Shanghai Markteam Information Technology Co., Ltd. ](https://www.qcc.com/firm/94ca1a2dde01eb87b668999ac248540d.html),Shanghai,China.        
