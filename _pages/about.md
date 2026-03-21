@@ -20,7 +20,7 @@ redirect_from:
 I am currently work as an intern,Solution Architect,AI in Industry Project at <a href='https://www.nvidia.com/en-sg/'><img src="images/nvidia.png" style='width: 1.2em; vertical-align: sub;'> Nvidia</a>.Simultaneously,i am also a master student in [Institute of Trustworthy Embodied AI](https://teai.fudan.edu.cn/),<a href='https://www.fudan.edu.cn/en/'><img src="images/fdu.png" style='width: 1.2em; vertical-align: sub;'> Fudan
 University</a>,advised by [Prof.Zuxuan Wu](https://zxwu.azurewebsites.net/) and [Prof.Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=en&oi=ao) .My research interests include computer vision,multimedia and embodied AI.In Nvidia,i work with [Yichen Xu](https://kokaine.github.io) in Robotics and AI4S Project.<br>
 
-I also am  partner and cofounder of the [Ultra Dimension](https://ultradimension.cn/#/),collaborating with [Mingxuan Fan](https://cloudiers.github.io/) in Mechatronic Engineering and Automation, Shanghai University.We are committed to transforming Embodied AI technology into practical education and industry solutions.
+I am also a partner and cofounder of the [Ultra Dimension](https://ultradimension.cn/#/),collaborating with [Mingxuan Fan](https://cloudiers.github.io/) in Mechatronic Engineering and Automation, Shanghai University.We are committed to transforming Embodied AI technology into practical education and industry solutions.
  
 
 
